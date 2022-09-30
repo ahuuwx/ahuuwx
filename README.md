@@ -8,7 +8,6 @@ I graduated from FPT University, majoring in software engineering. I have 3 noti
 
 * 🌍  I'm based in Ho Chi Minh, Viet Nam
 * ✉️  You can contact me at [nguyenthehuu116@gmail.com](mailto:nguyenthehuu116@gmail.com)
-* ⚡  I am still waiting for the next chapter of Berserk.
 
 ### Skills
 
