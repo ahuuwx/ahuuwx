@@ -4,7 +4,8 @@ Hi 👋 My name is Nguyễn Thế Hữu
 Fullstack Java/Angular Developer
 -----------------
 
-I graduated from FPT University, majoring in software engineering. I have 3 noticeable projects with 4 members for which I take the responsibility for backend member or backend leader. My self-perception is I am a responsible and motivated person and I love running deadlines when I know what I am doing and need to do.
+I graduated from FPT University, majoring in software engineering. Currently, I am working full time as a fullstack java/angular developer for Ban Vien Corp 
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://banvien.com/wp-content/themes/banviennew/assets/images/logo.png" width="36" height="36" alt="C" /></a> and onsite at Bosch Corp <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://www.pngmart.com/files/22/Bosch-Logo-PNG-File.png" width="36" height="36" alt="C" /></a> . My self-perception is I am a responsible and motivated person and I love running deadlines when I know what I am doing and need to do.
 
 * 🌍  I'm based in Ho Chi Minh, Viet Nam
 * ✉️  You can contact me at [nguyenthehuu116@gmail.com](mailto:nguyenthehuu116@gmail.com)
